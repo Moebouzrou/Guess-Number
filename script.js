@@ -60,7 +60,7 @@ document.querySelector(".check").addEventListener("click", function () {
     }
   }
 });
-///////////////
+//////////////////
 // Coding challenge I did as an exercise of the lesson
 
 document.querySelector(".again").addEventListener("click", function () {
